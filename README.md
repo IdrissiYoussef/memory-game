@@ -1,3 +1,3 @@
 # memory-game
 
-this a memory card game built by react
+this a memory card game built using react
